@@ -1,0 +1,7 @@
+/models
+/src/tmp
+/src/wandb
+__pycache__
+*.db
+
+.DS_Store
